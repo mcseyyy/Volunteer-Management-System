@@ -1,0 +1,88 @@
+.navBar
+{
+    margin:auto;
+    background-color:#fff;
+    height:72px;
+	position:fixed;
+	top:0px;
+	left:0px;
+	z-index:10;
+	width:100%;
+	box-shadow: 0px 5px 5px #ededed;
+}
+
+.aa:link, .aa:visited
+{
+	display:block;
+    font-size:14px;
+
+    font-family:"Source Sans Pro";
+    color:#252525;
+  
+    text-align:center;
+    padding-left:10px;
+    padding-right:10px;
+    text-decoration:none;
+}
+
+.aa:hover,.aa:active
+{
+    color:#cf2b26;
+}
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}
+
+.navBar ul
+{
+	height:50px;
+    list-style-type:none;
+    margin-top:5px;
+    overflow:hidden;
+	float:right;
+	
+}
+
+.navBar li
+{
+    float:left;
+    height:25px;
+	margin-right:25px;
+}
+
+.navBar .lout
+{
+    float:right;
+    height:25px;
+}
+
+.councilLogo
+{
+    margin-top:1px; 
+    height:70px;
+    width:210px;
+    background-image:url("logo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:fixed;
+    left:2%
+}
+
+.menu
+{
+    white-space:nowrap;
+}
+
+#outer
+{
+    position:relative;
+    overflow-x:auto;
+    width:100%;
+}
+
+#inner
+{
+    width:0;
+}

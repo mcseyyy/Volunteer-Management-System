@@ -1,0 +1,139 @@
+body
+{
+	background-color: #E9EFF2;
+}
+
+a
+{
+	text-decoration: none
+}
+
+#wrapper
+{
+    display:table;
+    margin:auto;
+    font-family:"Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+	margin-top: 78px;
+    padding: 3%;
+    -webkit-box-shadow: 0 0 26px rgba(68,68,68,0.4),inset 0 0 0 #6CDFEA;
+	box-shadow:0 0 25px rgba(68,68,68,68,0.4),inset 0 0 0 #6CDFEA;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius:5px;
+    o-border-radius: 10px;
+	border: 1px blue;
+    background-color:#FFF;
+}
+
+#h1
+{
+    margin:auto;
+    padding-bottom:10px;
+    font-family: Source Sans Pro;
+    font-size: 30px;
+    font-variant: small-caps;
+}
+
+#volunteerButton
+{
+	font-family:"Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+}
+
+.someTextShouldGoHereInputTypeInput
+{
+	width:96%;
+	padding:3% 2%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	line-height: 21px;
+	-webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 0 0 0 #000,inset 0px 3px 3px #eee;
+    -webkit-box-shadow: 0 0 0 #000,inset 0px 3px 3px #eee;
+    box-shadow: 0 0 0 #000,inset 0px 3px 3px #eee;
+    font-size: 16px;
+    border: 1px solid #bfbfbf;
+}
+
+
+
+label
+{
+font-family: "Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+font-weight: normal;
+text-align: left;
+font-size: 13px;
+line-height: 13px;
+}
+
+#checkBoxThing
+{
+	position:relative;
+	top:1.3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333px;
+	left:-3px;
+}
+
+
+#adminTable
+{
+    padding-top:5px;
+    padding-bottom:5px;
+	border:none;
+    empty-cells:hide;
+}
+
+
+#adminTable  th
+{
+    text-align:left;
+    padding:5px;
+	color:white;
+    border-style:solid;
+    border-width:2px;
+    border-color:#0099CC;
+    background-color:#0099CC;
+}
+
+
+#adminTable td
+{
+    padding:5px;
+    border-style:solid;
+    border-width:2px;
+    border-color:#CCCCCC;
+    background-color:#CCF5E0;
+}
+
+#adminTable td
+{
+    min-width:1;
+    display:block;
+    padding:5px;
+    border-style:solid;
+    border-width:2px;
+    border-color:#CCCCCC;
+    background-color:#CCF5E0;
+}
+
+.header
+{
+	margin-top:5px;
+    text-align: center;
+}
+
+.but2
+{
+    border:none;
+	font-family: Source Sans Pro;
+	color:white;
+	font-size:12px;
+    background-color:#cf2b26;
+	height:26px;
+	width:101px;
+	border-radius:3px;
+	border-bottom:5px solid #b2221d;
+	text-transform:uppercase;	
+}

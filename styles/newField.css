@@ -1,0 +1,61 @@
+.default
+{
+
+}
+.dropDown
+{
+	display: none;
+}
+
+.smallText
+{
+	display: none;
+}
+
+.bigText
+{
+	display: none;
+}
+
+.text
+{
+	display: none;
+}
+
+.checkBox
+{
+	display: none;
+}
+
+.date
+{
+	display: none;
+}
+
+#newField
+{   
+    margin-top:116px;
+    padding-left:4px;
+	display: none;
+}
+
+#tableName
+{
+	display: none;
+}
+
+#helpRegEdit
+{
+	height:30px;
+	width:30px;
+	display:block;
+	margin:15px;
+	background-image:url("dbase_help_icon.png");
+	background-size: cover;
+	float:right; 
+}
+
+#helpRegEdit:hover
+{
+	cursor:help;
+}
