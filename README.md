@@ -9,6 +9,12 @@ Short Description
 
 The project started as a database with a friendly user interface that was going to be used by the staff at Bristol Buseum but it evolved into something much bigger than that.
 
+Most of the code written by us can be found in:
+- /application/controllers/
+- /application/views/
+- /scripts/
+- /styles/
+
 Some of the extra features (all available through a user interface):
 - Registration form editable through a user interface (similar to Survey Monkey) with automatic generation of conditions for input validation;
 - Basic blogging platform to keep the volunteers up to date with the coming up events where their help is needed;
