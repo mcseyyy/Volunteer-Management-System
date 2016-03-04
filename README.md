@@ -46,25 +46,29 @@ The system consists of two perspectives: the main one is to serve the needs of s
 
 0. View information about volunteers
 0. Advanced search options to find volunteers with specific characteristics/skills/info
-... ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558950/c1b83dfc-74db-11e5-96bf-7f7ead4c4bf7.png)
+    
+    ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558950/c1b83dfc-74db-11e5-96bf-7f7ead4c4bf7.png)
 0. Send e-mails to volunteers and groups of volunteers
 0. Register and delete users
 0. Create and delete sub admins
 0. Manage sub admin permissions
-... ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558948/c18fb2ba-74db-11e5-99cf-7c61fbe99c95.png)
+    
+    ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558948/c18fb2ba-74db-11e5-99cf-7c61fbe99c95.png)
 0. Edit volunteers’ profile
 0. Edit the registration form
-... ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558952/c1b9606a-74db-11e5-9866-70b9e98b9e79.png)
+    ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558952/c1b9606a-74db-11e5-9866-70b9e98b9e79.png)
 0. Create groups and allocate volunteers to them
 0. Generate statistics on fields from the database
-... ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558949/c1b5340e-74db-11e5-87fa-f0426c0d189f.png)
+    
+    ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558949/c1b5340e-74db-11e5-87fa-f0426c0d189f.png)
 0. Create and edit events, and allocate groups to them 
 0. Keep track of a changelog functionality
 0. Create, delete and restore backups of the database
 0. Access and edit a contact page
 0. Access and edit the terms and conditions
 0. View the changelog
-... ![alt text]https://cloud.githubusercontent.com/assets/9435724/10558951/c1b834d8-74db-11e5-8c6f-0de51b8d4dd3.png
+    
+    ![alt text](https://cloud.githubusercontent.com/assets/9435724/10558951/c1b834d8-74db-11e5-8c6f-0de51b8d4dd3.png)
 
 ####The **Volunteer perspective** lets volunteers:
 
